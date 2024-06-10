@@ -1,8 +1,7 @@
 
 
 ### 💫 About Me:
-🔭 I’m currently working on Enhancing my web development skills.<br>👯 I’m looking to collaborate on Web design projects<br>🤝 I’m looking for help with: Improving my HTML and web development knowledge. I’m open to guidance, tips, or resources that can help me grow as a web developer.<br>🌱 I’m currently learning: The fundamentals of HTML and exploring more advanced concepts to build responsive and interactive web pages.<br>💬 Ask me about Anything related to web development basics.<br><br>
-
+🔭 I’m currently working on Enhancing my web development skills.<br>👯 I’m looking to collaborate on Web design projects<br>🤝 I’m looking for help with: Improving my HTML and web development knowledge. I’m open to guidance, tips, or resources that can help me grow as a web developer.<br>🌱 I’m currently learning: The fundamentals of HTML and exploring more advanced concepts to build responsive and interactive web pages.<br>💬 Ask me about Anything related to web development basics.<br><be>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/DwGZuHpj) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhannadajm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Muhannadajm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohannad-samara) 
 
