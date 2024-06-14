@@ -10,6 +10,7 @@
 
 ###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MohannadAjameih&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohannadAjameih&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###  My stats
 
@@ -17,6 +18,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MohannadAjameih&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="width: 47%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohannadAjameih&theme=dark&hide_border=false" alt="GitHub Stats" style="width: 47%;">
 </div>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MohannadAjameih&icon=0&color=0)](https://visitcount.itsvg.in)
