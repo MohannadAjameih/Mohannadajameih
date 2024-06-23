@@ -19,3 +19,6 @@
 <div align="left">
 <img src="https://github-contributor-stats.vercel.app/api?username=MohannadAjameih&limit=5&theme=dark&combine_all_yearly_contributions=true" style="width: 52%;">
 </div>
+
+  ### Donating
+ [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/MuhannadAjm)  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/muhannadajm)
